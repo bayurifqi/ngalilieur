@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[])
 {
-  printf("test baru lagi\n");
+  printf("test baru lagi tresna\n");
   system("PAUSE");	
   return 0;
 }
